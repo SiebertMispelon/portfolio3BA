@@ -3491,10 +3491,8 @@ body {
 .cid-r5O9yyBHsi .dropdown-item:hover {
   color: #1904f5 !important;
 }
-.cid-r5Or1y5xbY {
-  background-image: url("../../../assets/images/jumbotron.jpg");
-}
 .cid-r5Or1y5xbY .mbr-text,
 .cid-r5Or1y5xbY .mbr-section-btn {
   color: #000000;
+  text-align: left;
 }
